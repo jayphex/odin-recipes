@@ -1,1 +1,2 @@
 # odin-recipes
+Following The Odin Project to refresh on HTML as well as get much more familiar with using Git and GitHub by creating a basic HTML page that constitutes of recipes. In this project I have demonstrated an understanding of HTML use and Git commands. 
